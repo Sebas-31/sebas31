@@ -1,1 +1,47 @@
-
+<html>
+  Map Locations
+</html>
+<br>
+<html>
+  <head>
+    <style>
+    body {
+ background: url("https://sebas-31.github.io/sebas31/images/space2background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+      color: white;
+      text-align: center;
+      font-size: 62px;
+}
+      img {
+  width: 100%;
+        display: flex;
+  justify-content: center;
+}
+      a {
+        color: white;
+        font-size: 32px;
+      }
+    </style>
+  </head>
+  <body>
+    home page <br>
+<a href="https://sebas-31.github.io/sebas31/index.html">Home Page</a>
+    <br>
+<table>
+  <tr>
+    <th>
+      <img src="">
+    </th>
+    <th>
+      <img src="">
+    </th>
+    <br>
+    <th>
+      <img src="">
+      <a href="https://sebas-31.github.io/sebas31/maplocations">Map locations</a>
+    </th>
+  </tr>
+</table>
+  </body>
+</html>
